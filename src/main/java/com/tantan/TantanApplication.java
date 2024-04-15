@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class TantanApplication {
 
 	public static void main(String[] args) {
+		// 保持更新
 		SpringApplication.run(TantanApplication.class, args);
 	}
 }
